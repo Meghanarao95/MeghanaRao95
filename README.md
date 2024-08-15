@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Structure Algorithms**
 - 🌱 I’m currently learning **JavaScript**
-- - 🌱 I’m currently learning **PlayWright with JavaScript**
+- 🌱 I’m currently learning **PlayWright with JavaScript**
 
 - 📫 How to reach me **meghanarao4240@gmail.com**
 
