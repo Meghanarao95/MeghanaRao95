@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meghanarao95" alt="meghanarao95" /></a> </p>
 
-- 🔭 I’m currently working on **Selenium with Java Framework along with API Automation integration** 
+- 🔭 ’m currently learning **PlayWright with JavaScript** 
 
 - 🌱 I’m currently learning **Data Structure Algorithms**
 - 🌱 I’m currently learning **JavaScript**
-- 🌱 I’m currently learning **PlayWright with JavaScript**
+
 
 - 📫 How to reach me **meghanarao4240@gmail.com**
 
