@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Meghana T G</h1>
-<h3 align="center">A passionate Automation Test Enginner</h3>
+<h3 align="center">A passionate Automation Test Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meghanarao95&label=Profile%20views&color=0e75b6&style=flat" alt="meghanarao95" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meghanarao95" alt="meghanarao95" /></a> </p>
 
-- 🔭 ’m currently learning **PlayWright with JavaScript** 
+- 🔭 I’m currently learning **PlayWright with JavaScript** 
 
 - 🌱 I’m currently learning **Data Structure Algorithms**
 - 🌱 I’m currently learning **JavaScript**
