@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently learning **PlayWright with JavaScript** https://github.com/Meghanarao95/PlayWright_Framework.git
 
-- 🌱 I’m currently learning **Data Structure Algorithms** https://github.com/Meghanarao95/DSA_Java.git
+- 🌱 I’m currently working on **Data Structure Algorithms** https://github.com/Meghanarao95/DSA_Java.git
 
 
 
